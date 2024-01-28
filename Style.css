@@ -10,7 +10,7 @@
    max-width: 700px;
 }
 body{
-    background-color:#254679;
+    background-color:#001432;
     color: #fff;
 }
 .field{
@@ -31,9 +31,9 @@ body{
     margin-bottom: 10px;
 }
 .container h1 span {
-    color: #338a56;
+    color: #007730;
     font-weight: 500;
-    border-bottom: 4px solid #338a56;
+    border-bottom: 4px solid #007730;
     padding-bottom: 7px;
 }
 .field img{
@@ -47,7 +47,7 @@ body{
 }
 .container button{
     padding: 20px 26px;
-    background-color: #338a56;
+    background-color: #007730;
     color: #fff;
     display: flex;
     align-items: center;
